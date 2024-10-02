@@ -2,7 +2,7 @@
 
 ## 🚀 Data Analyst | Python Enthusiast | Business Intelligence 
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/851384df-a005-4ecb-a75a-9c0dc3e9207b">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 🔍 **About Me**  
 I’m a data enthusiast passionate about uncovering insights through data analytics and transforming them into impactful business decisions. With a background in data science, healthcare cost analysis, and predictive modeling, I leverage data to drive optimization and efficiencies. 
